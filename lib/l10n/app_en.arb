@@ -1,0 +1,8 @@
+{
+    "language" : "English",
+    "welcome": "Greetings",
+    "name": "Name",
+    "tellnumber": "Tell Number",
+    "personalinformation" : "Personal Information",
+    "email" : "Email"
+}
